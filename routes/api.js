@@ -1,4 +1,4 @@
-const express = require('express.').Router();
+const express = require('express').Router();
 const uuid = require('uuid');
 const fs = require('fs');
 const { stringify } = require('querystring');
@@ -39,4 +39,4 @@ express.post('api/notes', (req, res) => {
     }
 })
 
-module.exports = parsedNote
+module.exports = express;
