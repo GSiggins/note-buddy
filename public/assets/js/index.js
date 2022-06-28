@@ -1,5 +1,3 @@
-const api = require('../../../routes/api')
-
 let noteTitle;
 let noteText;
 let saveNoteBtn;
