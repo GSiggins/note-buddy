@@ -1,2 +1,12 @@
 [
+    {
+        "title": "Sample Note",
+        "text": "Sample Note Text\n",
+        "id": "54488bb4-5eea-4f77-91f8-751deb209f77"
+    },
+    {
+        "title": "Second Sample Note",
+        "text": "sample note text",
+        "id": "15b9ac16-4a8b-43a2-8fe9-6b33a972255b"
+    }
 ]
