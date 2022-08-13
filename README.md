@@ -20,6 +20,7 @@
 - Once you are done viewing your note, click the add button in the top right to add another note. 
 - Use the delete function to remove notes from the column on the left. 
 
-#### Screenshot: ![image](https://user-images.githubusercontent.com/103160909/176550098-9a57b296-3e1f-4764-9eec-2b456a2fa0ed.png)
+#### Screenshot: ![image](https://user-images.githubusercontent.com/103160909/184509549-c597ea73-c94e-4a84-8e83-57f1b7985a5a.png)
+
 
 ##### Licenses: None
